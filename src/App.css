@@ -1,0 +1,51 @@
+.main-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  padding: 50px;
+}
+.firstdiv {
+  display: "flex";
+  justify-content: "flex-start";
+  align-items: "center";
+  background-color: rgba(58, 101, 101, 0.2);
+  color: rgb(244, 244, 244);
+ 
+  text-align: center;
+  height: 1000px;
+  width: 1000px;
+  border-radius: 15px;
+  
+
+  
+}
+.task{
+  display: flex;
+  height:auto;
+  width: 850px;
+  background-color: rgba(0, 0, 0,0.8);
+  padding: 10px;
+  color: antiquewhite;
+  border-radius: 10px;
+  margin: 10px;
+ 
+  margin-left:50px ;
+ 
+}
+.input{
+  width:800px;
+  height: 50px;
+  background-color: rgba(0, 0, 0,0.8);
+  border-radius: 10px;
+  color: white;
+  box-shadow: inset;
+}
+.btn1{
+  height: 50px;
+  background-color: rgba(0, 0, 0,0.8);
+  border-radius: 10px;
+  color: white;
+  margin: 10px;
+
+}
